@@ -49,7 +49,7 @@
         <TextView
             android:layout_width="75dp"
             android:layout_height="wrap_content"
-            android:text="Sıcaklık"
+            android:text="@string/sicaklik"
             android:textStyle="bold"
             android:layout_gravity="center"
             android:gravity="center"
@@ -80,7 +80,7 @@
         <TextView
             android:layout_width="75dp"
             android:layout_height="wrap_content"
-            android:text="Enlem"
+            android:text="@string/enlem"
             android:gravity="center"
             android:textStyle="bold"/>
 
@@ -104,7 +104,7 @@
         <TextView
             android:layout_width="75dp"
             android:layout_height="wrap_content"
-            android:text="Nem"
+            android:text="@string/nem"
             android:textStyle="bold"
             android:layout_gravity="center"
             android:gravity="center"/>

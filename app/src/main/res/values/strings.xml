@@ -1,10 +1,7 @@
 <resources>
     <string name="app_name">HavaDurumu</string>
-    
-    <string-array name="sehirler">
-        <item>İstanbul</item>
-        <item>İzmir</item>
-        <item>Ankara</item>
+    <string name="sicaklik">Sıcaklık</string>
+    <string name="enlem">Enlem</string>
+    <string name="nem">Nem</string>
 
-    </string-array>
 </resources>
